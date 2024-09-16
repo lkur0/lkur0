@@ -40,6 +40,7 @@ I develop tailored solutions to meet user needs. Whether it's interactive websit
 
 <h1 align="center"> 📊 Stats </h1>
 <br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lkur0&show_icons=true&theme=gruvbox" alt="lkur0's GitHub stats">
 </div>
